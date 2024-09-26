@@ -1,0 +1,32 @@
+{
+  "vi": {
+    "timKiem": "Tìm kiếm",
+    "datLai": "Đặt lại",
+    "themMoi": "Thêm mới",
+    "pheDuyet": "Phê duyệt",
+    "xuatFile": "Xuất file",
+    "moRongMenu": "Mở rộng Menu",
+    "thuGonMenu": "Thu gọn Menu",
+    "inBaoCao": "In báo cáo"
+  },
+  "en": {
+    "timKiem": "Search",
+    "datLai": "Reset",
+    "themMoi": "Add new",
+    "pheDuyet": "Approve",
+    "xuatFile": "Export file",
+    "moRongMenu": "Expand Menu",
+    "thuGonMenu": "Collapse Menu",
+    "inBaoCao": "Print report"
+  },
+  "la": {
+    "timKiem": "ຊອກຫາ",
+    "datLai": "ຣີເຊັດ",
+    "themMoi": "ເພີ່ມໃຫມ່",
+    "pheDuyet": "ອະນຸມັດ",
+    "xuatFile": "ໄຟລ໌ສົ່ງອອກ",
+    "moRongMenu": "ຂະຫຍາຍເມນູ",
+    "thuGonMenu": "ຫຍໍ້ເມນູ",
+    "inBaoCao": "ພິມບົດລາຍງານ"
+  }
+}

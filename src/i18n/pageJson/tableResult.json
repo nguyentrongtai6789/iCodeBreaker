@@ -1,0 +1,20 @@
+{
+  "vi": {
+    "ketQuaTimKiem": "Kết quả tìm kiếm",
+    "soThuTu": "STT",
+    "noiSinh": "Nơi sinh",
+    "noiThuongTru": "Nơi thường trú"
+  },
+  "en": {
+    "ketQuaTimKiem": "Search results",
+    "soThuTu": "Order",
+    "noiSinh": "Place of birth",
+    "noiThuongTru": "Place of residence"
+  },
+  "la": {
+    "ketQuaTimKiem": "ຜົນການຄົ້ນຫາ",
+    "soThuTu": "ຄໍາສັ່ງ",
+    "noiSinh": "ສະຖານທີ່ເກີດ",
+    "noiThuongTru": "ທີ່ຢູ່ອາໄສຖາວອນ"
+  }
+}

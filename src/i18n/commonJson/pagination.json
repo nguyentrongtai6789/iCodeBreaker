@@ -1,0 +1,23 @@
+{
+  "vi": {
+    "tu": "Từ",
+    "den": "đến",
+    "trongTongSo": "trong tổng số ",
+    "banGhi": "bản ghi",
+    "trang": "trang"
+  },
+  "en": {
+    "tu": "From",
+    "den": "to",
+    "trongTongSo": "of ",
+    "banGhi": "record",
+    "trang": "page"
+  },
+  "la": {
+    "tu": "ຈາກ",
+    "den": "ກັບ",
+    "trongTongSo": "ໃນຈໍານວນທັງຫມົດ ",
+    "banGhi": "ບັນທຶກ",
+    "trang": "ໜ້າ"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "vi": {
+    "dangNhap": "Đăng nhập",
+    "tenDangNhap": "Tên đăng nhập",
+    "matKhau": "Mật khẩu",
+    "chonPhanHe": "Chọn phân hệ",
+    "dangNhapThanhCong": "Đăng nhập thành công",
+    "saiTaiKhoanMatKhau": "Sai tài khoản hoặc mật khẩu"
+  },
+  "en": {
+    "dangNhap": "Login",
+    "tenDangNhap": "Username",
+    "matKhau": "Password",
+    "chonPhanHe": "Select subsystem",
+    "dangNhapThanhCong": "Login successfully",
+    "saiTaiKhoanMatKhau": "Wrong password or username"
+  },
+  "la": {
+    "dangNhap": "ເຂົ້າ​ສູ່​ລະ​ບົບ",
+    "tenDangNhap": "ຊື່ເຂົ້າສູ່ລະບົບ",
+    "matKhau": "ລະຫັດຜ່ານ",
+    "chonPhanHe": "ເລືອກລະບົບຍ່ອຍ",
+    "dangNhapThanhCong": "ເຂົ້າສູ່ລະບົບສຳເລັດແລ້ວ",
+    "saiTaiKhoanMatKhau": "ບັນຊີ ຫຼືລະຫັດຜ່ານຜິດ"
+  }
+}
